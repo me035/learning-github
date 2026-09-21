@@ -9,3 +9,5 @@ test-learning
 feature-a　
 
 反映されるかテスト
+
+どこにコメントが表示されるのかテスト
